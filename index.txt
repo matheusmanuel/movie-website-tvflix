@@ -1,0 +1,142 @@
+Tvflix
+
+Tvflix is a popular movie app made by codewithsadee.
+
+
+
+#---------- HEADER ----------#
+
+alt = Tvflix home
+
+aria-label = search movies
+placeholder = Search any movies...
+alt = search
+
+alt = close search box
+
+alt = open search box
+
+alt = open menu
+
+alt = close menu
+
+
+
+#---------- SIDEBAR ----------#
+
+Genre
+
+Action
+Horror
+Comedy
+Adventure
+Drama
+Sci-Fi
+
+Language
+
+English
+Hindi
+Bengali
+
+Copyright 2023
+href = https://youtube.com/@codewithsadee
+codewithsadee
+
+alt = the movie database logo
+
+
+
+#---------- HOME PAGE ----------#
+
+// BANNER
+aria-label = popular movies
+
+alt = Puss in Boots: The Last Wish
+
+Puss in Boots: The Last Wish
+
+2022
+7.5
+
+Animation, Action, Adventure
+
+Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+
+Watch Now
+
+alt = Slide to Puss in Boots: The Last Wish
+
+
+
+// MOVIE LIST
+
+Upcoming Movies
+
+alt = Puss in Boots: The Last Wish
+
+alt = rating
+
+8.4
+
+2022
+
+title = Puss in Boots: The Last Wish
+
+
+
+#---------- DETAIL PAGE ----------#
+
+alt = Puss in Boots: The Last Wish
+
+Puss in Boots: The Last Wish
+
+alt = rating
+
+8.4
+
+162m
+
+2022
+
+PG-13
+
+Animation, Action, Adventure
+
+Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+
+Starring
+
+Letitia Wright, Lupita Nyong'o, Danai Gurira, Winston Duke, Dominique Thorne, Tenoch Huerta Mejía, Angela Bassett, Florence Kasumba, Michaela Coel, Mabel Cadena
+
+Directed By
+
+Ryan Coogler
+
+Trailers and Clips
+
+You May Also Like
+
+alt = Puss in Boots: The Last Wish
+
+alt = rating
+
+8.4
+
+2022
+
+title = Puss in Boots: The Last Wish
+
+
+
+#---------- MOVIE LIST PAGE ----------#
+
+All Fantasy Movies
+
+
+
+#---------- SEARCH MODAL ----------#
+
+Results for
+
+Puss in Boots
