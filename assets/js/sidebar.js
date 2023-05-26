@@ -28,12 +28,12 @@ export function sidebar(){
   </div>
 
   <div class="sidebar-footer">
-    <p class="copyright"><a href="https://twitter.com/danish__an">Made with 🎈 by Matheus manuel</a>
+    <p class="copyright"><a target="_blank" href="https://www.youtube.com/matheusmanuel">Made with 🎈 by Matheus manuel</a>
     </p>
     <div class="social-link">
-    <a href="https://www.youtube.com/matheusmanuel" alt="Social handles" target="_blank">youtube</a>
-    <a href="https://github.com/matheusmanuel" alt="Social handles" target="_blank">Github</a>
-    <a href="https://www.instagram.com/matheusmanuel.dev" alt="Social handles" target="_blank">Instagram</a>
+    <a target="_blank" href="https://www.youtube.com/matheusmanuel" alt="Social handles" target="_blank">youtube</a>
+    <a target="_blank" href="https://github.com/matheusmanuel" alt="Social handles" target="_blank">Github</a>
+    <a target="_blank" href="https://www.instagram.com/matheusmanuel.dev" alt="Social handles" target="_blank">Instagram</a>
     </div>
   </div>
 `;
